@@ -1,0 +1,16 @@
+#welcome
+{background: linear-gradient(#83C9E3 0%, #4E859A 100%);
+height: 700px;}
+
+
+#profile 
+{Height:350px;
+border-radius:50%}
+
+
+body
+{text-align: center;
+font-size:30px}
+
+#name
+{font-family: 'Girassol', cursive;}
